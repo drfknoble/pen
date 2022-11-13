@@ -1,4 +1,4 @@
-# My 3D-Printable Pen
+# A 3D-Printable Pen
 
 ![](https://img.shields.io/badge/CAD-SOLIDWORKS-red)
 ![](https://img.shields.io/badge/CAD-FreeCAD-red)
